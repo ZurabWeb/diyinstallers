@@ -3,9 +3,9 @@ languageCode: en-us
 title: DIY Installers
 theme: hugo-fresh
 disableKinds: ["taxonomy", "taxonomyTerm"]
-googleAnalytics: UA-143382850-1
 
 params:
+  googleTagManager: GTM-5T58WJR
   customCSS: custom.css
   navbarlogo:
    image: logo.png
