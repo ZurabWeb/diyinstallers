@@ -2,6 +2,7 @@ baseURL: https://diyinstallers.com/
 languageCode: en-us
 title: DIY Installers
 theme: hugo-fresh
+disableKinds: ["taxonomy", "taxonomyTerm"]
 
 params:
   customCSS: custom.css
