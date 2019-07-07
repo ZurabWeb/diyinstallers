@@ -3,6 +3,7 @@ languageCode: en-us
 title: DIY Installers
 theme: hugo-fresh
 disableKinds: ["taxonomy", "taxonomyTerm"]
+googleAnalytics: UA-143382850-1
 
 params:
   customCSS: custom.css
