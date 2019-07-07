@@ -1,0 +1,29 @@
+ul {
+    margin-left: 3em;
+    list-style: initial;
+}
+
+.button.signup-button {
+    width: auto;
+}
+.required-asterisk {
+    color: #ff3860;
+}
+.select {
+    display: block;
+    width: 100%;
+    border-color: #dbdbdb;
+    font-size: 1.25rem;
+    color: #878787;
+    padding-left: calc(0.625em - 1px);
+    padding-right: calc(0.625em - 1px);
+    padding-top: calc(0.375em - 1px);
+    padding-bottom: 5px;
+}
+.hero-foot img.partner-logo {
+    height: 50px;
+    margin: 0 10px;
+}
+.hero-foot .tabs li {
+    padding: 0.5em 1em;
+}

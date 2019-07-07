@@ -1,0 +1,98 @@
+baseURL: https://diyinstallers.com/
+languageCode: en-us
+title: DIY Installers
+theme: hugo-fresh
+
+params:
+  customCSS: custom.css
+  navbarlogo:
+   image: logo.png
+   link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: "Your home: automated."
+    # Hero subtitle (optional)
+    subtitle: We are expert technicians at installing, configuring and repairing all types of Smart Home and Internet of Things equipment. Including DIY security systems and home automation.
+    # Button text
+    buttontext: Request a Quote
+    # Where the main hero button links to
+    buttonlink: "/quote"
+    # Hero image (from static/images/___)
+    image: thermostat.jpg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    clientlogos:
+    - nest
+    - samsung
+    - cisco
+    - hue
+    - amazon
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Services
+    url: /services
+  - title: About
+    url: /about
+  - title: Join
+    url: /join
+  - title: Request a Quote
+    url: /quote
+    button: true
+  section1:
+    title: Let us serve
+    subtitle: all your home automation needs
+    tiles:
+    - title: Security Systems
+      icon: shield
+      text: Full remote monitoring and automated cloud backup
+      url: /quote
+      buttonText: Get started
+    - title: Smart Home
+      icon: smarthome
+      text: Custom automation setup makes your life simpler 
+      url: /quote
+      buttonText: Get started
+    - title: Network and Wifi
+      icon: wifi
+      text: Solid home network ensures uninterrupted performance
+      url: /quote
+      buttonText: Get started
+  section2:
+    title: It is our mission to ensure you're sattisfied
+    subtitle: If not, we'll work with you until you are!
+    features:
+    - title: Securing your home or office network
+      text: We employ the enterprise grade software to make sure your network is safe and sound at all times. We couple that with uninterrupted, cutting edge performance, to give you some piece of mind.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: laptop-globe
+    - title: Cross-device synchronisation
+      text: Your settings are stored in cloud and instantly available on all your devices. We ensure your data is secure with out enterprise grade security.
+      icon: doc-sync
+    - title: Control your devices on the go
+      text: Full control of your home automation system is at your fingertips. Whether you'd like to check your security camera feed real time or turn the lights on - you can do it all on your phone or tablet.
+      icon: mobile-feed
+  section3:
+    title: One stop shop
+    subtitle: for all your home automation needs
+    buttonText: Get started
+    buttonLink: "/quote"
+  section4:
+    title: Our Clients love us!
+    subtitle: Check out what they have to say about us. We strive to make every customer happy!
+    clients:
+    - name: Irma Walters
+      quote: After a break into our home we needed to have our security system installed immediatly to save our peace of mind. Thanks for arriving late on a Sunday and finishing before we even knew it.
+      job: Miami Lakes, FL
+      img: 1
+    - name: John Bradley
+      quote: THANK YOU for installing a high end automation system for us to control lighting, A/C, networking and our security system. One less thing we need to worry about. This makes our lives simpler!
+      job: Fort Laurderdale, FL
+      img: 2
+    - name: Gary Blackman
+      quote: We have been working with DIY Installers to install and setup the latest home technology. Their automation systems are cost effective, easy to work with, and the quality is impressive.
+      job: Boca Raton, FL
+      img: 3
+  section5: true
+  footer: true
