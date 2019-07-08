@@ -2,6 +2,10 @@ ul {
     margin-left: 3em;
     list-style: initial;
 }
+ul li {
+    position: relative;
+    left: 3em;
+}
 
 .button.signup-button {
     width: auto;
@@ -26,4 +30,11 @@ ul {
 }
 .hero-foot .tabs li {
     padding: 0.5em 1em;
+}
+@media only screen and (min-width: 900px) {
+    .content-image {
+        max-width: 40%;
+        float: left;
+        margin-right: 2em;
+    }
 }

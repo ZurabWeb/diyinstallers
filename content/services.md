@@ -5,6 +5,8 @@ subtitle: "We handle most of your home automation needs!"
 
 <p>&nbsp;</p>
 
+<p class="content-image"><img src="/images/content/services.jpg" /></p>
+
 <p class="subtitle is-6">We provide most services related to Smart Homes and Internet of Things. We can also setup your security system and configure your automation as you desire. Some of the services we provide are:</p>
 
 - Wireless Routers
