@@ -3,6 +3,7 @@ languageCode: en-us
 title: DIY Installers
 theme: hugo-fresh
 disableKinds: ["taxonomy", "taxonomyTerm"]
+metaDataFormat: "yaml"
 
 params:
   googleTagManager: GTM-5T58WJR
