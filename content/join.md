@@ -8,19 +8,19 @@ subtitle: "We're hiring in West Palm Beach, Broward and Miami-Dade!"
 <p class="subtitle is-6">If you live in South Florida, are technically skilled and would be interested in working with us for residential and commercial tech service and installation, fill out the form below, and we'll reach out to you with more information.</p>
 
 <div class="column is-6 is-offset-3">
-  <form method="POST" action="/form-thank-you" name="join" netlify>
+  <form method="POST" action="/form-thank-you" name="Recruiting" netlify>
     <div class="columns is-multiline">
       <div class="column is-12">
         <label>Name:</label> <span class="required-asterisk">*</span>
-        <input class="input is-medium" name="Name" type="text" required />
+        <input name="Name" class="input is-medium" type="text" required />
       </div>
       <div class="column is-12">
         <label>Phone:</label> <span class="required-asterisk">*</span>
-        <input class="input is-medium" name="Phone" type="text" required />
+        <input name="Phone" class="input is-medium" type="text" required />
       </div>
       <div class="column is-12">
         <label>E-mail:</label> <span class="required-asterisk">*</span>
-        <input class="input is-medium" name="E-mail" type="email" required />
+        <input name="E-mail" class="input is-medium" type="email" required />
       </div>
       <div class="column is-12">
         <label>How did you hear about us?</label>

@@ -8,19 +8,19 @@ subtitle: "We'd love an opportunity to serve you!"
 <p class="subtitle is-6">Please provide the details of the services requested below and we'll get in touch with you as soon as possible. Details like required equipment and type of property are helpful.</p>
 
 <div class="column is-6 is-offset-3">
-  <form method="POST" action="/form-thank-you" name="quote" netlify>
+  <form method="POST" action="/form-thank-you" name="Quote" netlify>
     <div class="columns is-multiline">
       <div class="column is-12">
         <label>Name:</label> <span class="required-asterisk">*</span>
-        <input class="input is-medium" name="Name" type="text" required />
+        <input name="Name" class="input is-medium" type="text" required />
       </div>
       <div class="column is-12">
         <label>Phone:</label> <span class="required-asterisk">*</span>
-        <input class="input is-medium" name="Phone" type="text" required />
+        <input name="Phone" class="input is-medium" type="text" required />
       </div>
       <div class="column is-12">
         <label>E-mail:</label> <span class="required-asterisk">*</span>
-        <input class="input is-medium" name="E-mail" type="email" required />
+        <input name="E-mail" class="input is-medium" type="email" required />
       </div>
       <div class="column is-12">
         <label>Type of property</label> <span class="required-asterisk">*</span>
@@ -32,7 +32,7 @@ subtitle: "We'd love an opportunity to serve you!"
       </div>
       <div class="column is-12">
         <label>Details:</label> <span class="required-asterisk">*</span>
-        <textarea class="textarea" rows="10" placeholder="Please provide the details of the services and equipment required" required></textarea>
+        <textarea name="Details" class="textarea" rows="10" placeholder="Please provide the details of the services and equipment required" required></textarea>
       </div>
       <div class="column is-12">
         <label>How did you hear about us?</label>
