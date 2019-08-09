@@ -1,6 +1,6 @@
 baseURL: https://www.diyinstallers.com/
 languageCode: en-us
-title: DIY Installers
+title: Home
 theme: hugo-fresh
 disableKinds: ["taxonomy", "taxonomyTerm"]
 metaDataFormat: "yaml"
