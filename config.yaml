@@ -34,11 +34,13 @@ params:
     - amazon
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Services
+  - title: Home
+    url: /
+  - title: Our Services
     url: /services
-  - title: About
+  - title: About Us
     url: /about
-  - title: Join
+  - title: Join The Team
     url: /join
   - title: Request a Quote
     url: /quote
@@ -63,14 +65,14 @@ params:
       url: /quote
       buttonText: Get started
   section2:
-    title: It is our mission to ensure you're sattisfied
+    title: It is our mission to ensure you're satisfied
     subtitle: If not, we'll work with you until you are!
     features:
     - title: Securing your home or office network
       text: We employ the enterprise grade software to make sure your network is safe and sound at all times. We couple that with uninterrupted, cutting edge performance, to give you some piece of mind.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Cross-device synchronisation
+    - title: Cross-device synchronization
       text: Your settings are stored in cloud and instantly available on all your devices. We ensure your data is secure with out enterprise grade security.
       icon: doc-sync
     - title: Control your devices on the go
@@ -86,7 +88,7 @@ params:
     subtitle: Check out what they have to say about us. We strive to make every customer happy!
     clients:
     - name: Irma Walters
-      quote: After a break into our home we needed to have our security system installed immediatly to save our peace of mind. Thanks for arriving late on a Sunday and finishing before we even knew it.
+      quote: After a break into our home we needed to have our security system installed immediately to save our peace of mind. Thanks for arriving late on a Sunday and finishing before we even knew it.
       job: Miami Lakes, FL
       img: 1
     - name: John Bradley
