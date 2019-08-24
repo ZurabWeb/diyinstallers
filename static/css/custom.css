@@ -31,19 +31,42 @@ ul li {
 .hero-foot .tabs li {
     padding: 0.5em 1em;
 }
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 1024px) {
     .content-image {
         max-width: 40%;
         float: left;
         margin-right: 2em;
     }
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1024px) {
     .navbar-brand a.navbar-item {
         max-width: 80%;
     }
     .navbar.is-fresh .navbar-brand img {
         max-height: initial !important;
         height: auto;
+    }
+    .hero-body {
+        padding-top: 4rem;
+    }
+    .tabs ul {
+        margin-left: 0;
+    }
+    .hero-foot .tabs li {
+        padding: 0.5em 0;
+        left: 0;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .hero-body {
+        padding-top: 0;
+        padding-bottom: 2rem;
+    }
+    .tabs ul {
+        display: initial;
+    }
+    .hero-foot .tabs li {
+        padding: 1em 0.5em;
+        text-align: center;
     }
 }
