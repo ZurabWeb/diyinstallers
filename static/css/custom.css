@@ -69,4 +69,29 @@ ul li {
         padding: 1em 0.5em;
         text-align: center;
     }
+    .section > .container > .columns > .column > .divider {
+        width: auto;
+    }
+    .container > .columns > .column.is-7.mt-60 {
+        margin-top: 0 !important;
+    }
+    .container > .columns > .column > .media {
+        display: initial;
+    }
+    .container > .columns > .column > .media .media-content {
+        margin: -25px 0 !important;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 25px;
+    }
+    .container > .columns > .column > .media:last-child .media-content {
+        border-bottom: 0;
+    }
+    .content-wrapper {
+        padding: 60px 0 0;
+    }
+    .feature-card {
+        width: auto;
+        height: auto;
+        padding-bottom: 25px;
+    }
 }
