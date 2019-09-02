@@ -20,4 +20,14 @@ subtitle: "We handle most of your home automation needs!"
 
 <p>&nbsp;</p>
 
-<p class="subtitle is-6">Let us help you bring your next project to life. <a href="/quote/">Request a quote</a> and we'll be in touch in no time!</p>
+<p class="subtitle is-6">Let us help you bring your next project to life. Click below to get started and we'll be in touch in no time!</p>
+
+<p>&nbsp;</p>
+
+<p class="has-text-centered">
+    <a href="/quote">
+        <span class="button signup-button rounded secondary-btn">
+            Get Started
+        </span>
+    </a>
+</p>
