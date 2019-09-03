@@ -100,4 +100,11 @@ params:
       job: Boca Raton, FL
       img: 3
   section5: true
-  footer: true
+  footer:
+    socialmedia:
+    - link: https://www.facebook.com/diyinstallers
+      icon: facebook
+    - link: https://instagram.com/diyinstallers
+      icon: instagram
+    - link: https://g.page/diy-installers
+      icon: google

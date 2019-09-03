@@ -1,5 +1,26 @@
+{{- $footer      := .Site.Params.footer }}
+{{- $socialMedia := index $footer "socialmedia" }}
 <footer class="footer footer-dark">
   <div class="container">
-    <p>&copy; 2019 DIY Installers</p>
+    <div class="columns">
+      <div class="column">
+        <p>&copy; 2019 DIY Installers. All rights reserved.</p>
+      </div>
+      <div class="column">
+        <div class="footer-column is-pulled-right">
+          <div class="footer-header">
+            <nav class="level is-mobile">
+              <div class="level-left">
+                {{- range $socialMedia }}
+                <a class="level-item" href="{{ .link }}" target="_blank">
+                  <span class="icon"><i class="fa fa-{{ .icon }}"></i></span>
+                </a>
+                {{- end }}
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </footer>

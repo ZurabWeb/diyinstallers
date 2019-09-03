@@ -31,6 +31,10 @@ ul li {
 .hero-foot .tabs li {
     padding: 0.5em 1em;
 }
+footer.footer-dark .footer-column .level-item .icon {
+    color: #ffffff;
+    transition: none;
+}
 @media only screen and (min-width: 1024px) {
     .content-image {
         max-width: 40%;
@@ -93,5 +97,8 @@ ul li {
         width: auto;
         height: auto;
         padding-bottom: 25px;
+    }
+    .footer-column.is-pulled-right {
+        float: initial !important;
     }
 }
