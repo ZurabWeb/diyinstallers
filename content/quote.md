@@ -1,6 +1,6 @@
 ---
 title: "Request a Quote"
-subtitle: "We'd love an opportunity to serve you!"
+subtitle: "Contact us and we'll be in touch in no time!"
 ---
 
 <p>&nbsp;</p>

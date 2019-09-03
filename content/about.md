@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: "By using our services, you help your community!"
+subtitle: "We're local to South Florida. By using our services, you help our community!"
 ---
 
 <p>&nbsp;</p>

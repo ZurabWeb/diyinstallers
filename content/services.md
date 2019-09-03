@@ -1,6 +1,6 @@
 ---
 title: Services
-subtitle: "We handle most of your home automation needs!"
+subtitle: "We provide a wide range of services to address all of your home automation needs!"
 ---
 
 <p>&nbsp;</p>
