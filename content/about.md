@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Smart Home and Home Automation Experts
 subtitle: "We're local to South Florida. By using our services, you help our community!"
 ---
 

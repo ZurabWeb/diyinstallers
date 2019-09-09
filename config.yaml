@@ -1,6 +1,6 @@
 baseURL: https://www.diyinstallers.com/
 languageCode: en-us
-title: Home
+title: Home automation services
 theme: hugo-fresh
 disableKinds: ["taxonomy", "taxonomyTerm"]
 metaDataFormat: "yaml"
@@ -16,15 +16,16 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: "Your home: automated."
+    title: "Home automation professionals"
     # Hero subtitle (optional)
-    subtitle: We are expert technicians at installing, configuring and repairing all types of Smart Home and Internet of Things equipment. Including DIY security systems and home automation.
+    subtitle: We are expert technicians at installing and configuring all types of Smart Home and Internet of Things equipment. Including DIY security systems and home automation.
     # Button text
     buttontext: Request a Quote
     # Where the main hero button links to
     buttonlink: "/quote"
     # Hero image (from static/images/___)
     image: thermostat.jpg
+    imagealt: Smart Thermostat, Home Automation, Security Systems, Security Cameras, Miramar, Pembroke Pines, Wilton Manors, Pompano Beach, Delray Beach, Boca Raton, Fort Lauderdale - DIY Installers
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - nest

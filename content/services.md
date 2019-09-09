@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Home Automation and Internet of Things
 subtitle: "We provide a wide range of services to address all of your home automation needs!"
 ---
 
