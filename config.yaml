@@ -16,9 +16,9 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: "Home automation professionals"
+    title: "Home Automation Professionals"
     # Hero subtitle (optional)
-    subtitle: We are expert technicians at installing and configuring all types of Smart Home and Internet of Things equipment. Including DIY security systems and home automation.
+    subtitle: We are expert technicians at installing and configuring all types of Smart Home and Internet-of-Things equipment. Including DIY security systems and home automation.
     # Button text
     buttontext: Request a Consulation
     # Where the main hero button links to
@@ -68,11 +68,10 @@ params:
     subtitle: If not, we'll work with you until you are!
     features:
     - title: Securing your home or office network
-      text: We employ the enterprise grade software to make sure your network is safe and sound at all times. We couple that with uninterrupted, cutting edge performance, to give you some piece of mind.
-      # Icon (from /images/illustrations/icons/___.svg)
+      text: We employ the enterprise-grade software to make sure your network is safe and sound at all times. We couple that with uninterrupted, cutting edge performance to give you peace of mind.
       icon: laptop-globe
     - title: Cross-device synchronization
-      text: Your settings are stored in cloud and instantly available on all your devices. We ensure your data is secure with out enterprise grade security.
+      text: Your settings are stored in the cloud and instantly available on all your devices. We ensure your data is secure with enterprise-grade security.
       icon: doc-sync
     - title: Control your devices on the go
       text: Full control of your home automation system is at your fingertips. Whether you'd like to check your security camera feed real time or turn the lights on - you can do it all on your phone or tablet.

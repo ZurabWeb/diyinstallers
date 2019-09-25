@@ -1,5 +1,5 @@
 ---
-title: Home Automation and Internet of Things
+title: Home Automation and Internet-of-Things
 subtitle: "We provide a wide range of services to address all of your home automation needs!"
 ---
 
@@ -7,7 +7,7 @@ subtitle: "We provide a wide range of services to address all of your home autom
 
 <p class="content-image"><img src="/images/content/services.jpg" /></p>
 
-<p class="subtitle is-6">We provide most services related to Smart Homes and Internet of Things. We can also setup your security system and configure your automation as you desire. Some of the services we provide are:</p>
+<p class="subtitle is-6">We provide most services related to Smart Homes and Internet-of-Things. We can also setup your security system and configure your automation as you desire. Some of the services we provide are:</p>
 
 - Wireless Routers
 - DIY Security Systems (Hubs, Sensors, Sirens, Status Indicators)
@@ -16,7 +16,7 @@ subtitle: "We provide a wide range of services to address all of your home autom
 - Smart Doorbells
 - Smart Lights and Wall Plugs
 - Smart Home Automation
-- Internet of Things
+- Internet-of-Things
 
 <p>&nbsp;</p>
 
