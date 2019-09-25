@@ -31,6 +31,12 @@ ul li {
 .hero-foot .tabs li {
     padding: 0.5em 1em;
 }
+footer.footer-dark .footer-column .contact-link {
+    color: #ffffff;
+}
+footer.footer-dark .footer-column .contact-link:hover {
+    text-decoration: underline;
+}
 footer.footer-dark .footer-column .level-item .icon {
     color: #ffffff;
     transition: none;
