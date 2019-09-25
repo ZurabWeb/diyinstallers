@@ -20,9 +20,9 @@ params:
     # Hero subtitle (optional)
     subtitle: We are expert technicians at installing and configuring all types of Smart Home and Internet of Things equipment. Including DIY security systems and home automation.
     # Button text
-    buttontext: Request a Quote
+    buttontext: Request a Consulation
     # Where the main hero button links to
-    buttonlink: "/quote"
+    buttonlink: "/consulation"
     # Hero image (from static/images/___)
     image: thermostat.jpg
     imagealt: Smart Thermostat, Home Automation, Security Systems, Security Cameras, Miramar, Pembroke Pines, Wilton Manors, Pompano Beach, Delray Beach, Boca Raton, Fort Lauderdale - DIY Installers
@@ -43,8 +43,8 @@ params:
     url: /about
   - title: Join The Team
     url: /join
-  - title: Request a Quote
-    url: /quote
+  - title: Request a Consulation
+    url: /consulation
     button: true
   section1:
     title: Let us serve
@@ -53,17 +53,17 @@ params:
     - title: Security Systems
       icon: shield
       text: Full remote monitoring and automated cloud backup
-      url: /quote
+      url: /consulation
       buttonText: Get started
     - title: Smart Home
       icon: smarthome
       text: Custom automation setup makes your life simpler 
-      url: /quote
+      url: /consulation
       buttonText: Get started
     - title: Network and Wifi
       icon: wifi
       text: Solid home network ensures uninterrupted performance
-      url: /quote
+      url: /consulation
       buttonText: Get started
   section2:
     title: It is our mission to ensure you're satisfied
@@ -83,7 +83,7 @@ params:
     title: One stop shop
     subtitle: for all your home automation needs
     buttonText: Get started
-    buttonLink: "/quote"
+    buttonLink: "/consulation"
   section4:
     title: Our Clients love us!
     subtitle: Check out what they have to say about us. We strive to make every customer happy!

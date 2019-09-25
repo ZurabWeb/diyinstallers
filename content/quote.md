@@ -1,5 +1,5 @@
 ---
-title: "Request a Quote"
+title: "Request a Consulation"
 subtitle: "Contact us and we'll be in touch in no time!"
 ---
 
@@ -8,7 +8,7 @@ subtitle: "Contact us and we'll be in touch in no time!"
 <p class="subtitle is-6">Please provide the details of the services requested below and we'll get in touch with you as soon as possible. Details like required equipment and type of property are helpful.</p>
 
 <div class="column is-6 is-offset-3">
-  <form method="POST" action="/form-thank-you" name="Quote" netlify>
+  <form method="POST" action="/form-thank-you" name="Consulation" netlify>
     <div class="columns is-multiline">
       <div class="column is-12">
         <label>Name:</label> <span class="required-asterisk">*</span>

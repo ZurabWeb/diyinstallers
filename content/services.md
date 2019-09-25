@@ -25,7 +25,7 @@ subtitle: "We provide a wide range of services to address all of your home autom
 <p>&nbsp;</p>
 
 <p class="has-text-centered">
-    <a href="/quote">
+    <a href="/consulation">
         <span class="button signup-button rounded secondary-btn">
             Get Started
         </span>

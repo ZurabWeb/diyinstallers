@@ -16,7 +16,7 @@ subtitle: "We're local to South Florida. By using our services, you help our com
 <p>&nbsp;</p>
 
 <p class="has-text-centered">
-    <a href="/quote">
+    <a href="/consulation">
         <span class="button signup-button rounded secondary-btn">
             Get Started
         </span>
